@@ -9,12 +9,12 @@ h1{
     font-weight: bold;
     color:black;
 }
-.center{
+/* .center{
     text-align: center;
     font-size:large;
     font-weight: bold;
     color:black;
-}
+} */
 .block{
     display: block;
     margin-left: auto;
@@ -37,7 +37,7 @@ h1{
 #src4{ color:white;}
 #src5{ color:white; }
 
-#fake{
+/* #fake{
     color: rgb(240, 246, 255);
     text-align: center;
-}
+} */
